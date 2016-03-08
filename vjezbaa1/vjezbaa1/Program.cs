@@ -12,5 +12,9 @@ namespace vjezbaa1
             Console.WriteLine("Porukaaaa");
             Console.WriteLine("Aj bok");
         }
+
+        public static void Test(string[] args)
+        {
+        }
     }
 }
