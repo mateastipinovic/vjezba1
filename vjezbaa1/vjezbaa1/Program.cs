@@ -10,6 +10,7 @@ namespace vjezbaa1
         static void Main(string[] args)
         {
             Console.WriteLine("Porukaaaa");
+            Console.WriteLine("Aj bok");
         }
     }
 }
