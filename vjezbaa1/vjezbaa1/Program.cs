@@ -9,6 +9,7 @@ namespace vjezbaa1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Porukaaaa");
         }
     }
 }
