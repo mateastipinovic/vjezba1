@@ -15,6 +15,11 @@ namespace vjezbaa1
 
         public static void Test(string[] args)
         {
+
+        
+        public static void test()
+        {
+
         }
     }
 }
